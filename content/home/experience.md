@@ -22,28 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Predoctoral scholar
+    company: Carolina Population Center
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: org-cpc
+    location: Chapel Hill, NC
+    date_start: '2019-05-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Conducted original research including systematic reviews and observational studies (see publications)
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Graduate Research Assistant
+    company: Dr. Allison Aiello, University of North Carolina-Chapel Hill
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: org-unc
+    location: Chapel Hill, NC
+    date_start: '2018-08-01'
+    date_end: '2019-04-30'
+    description: Conducted original research focusing on the human microbiome (see publications)
 
 design:
   columns: '2'
