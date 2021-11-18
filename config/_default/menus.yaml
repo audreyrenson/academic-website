@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Public health research
-    url: /#Hello
+    url: '#public-health-publications'
     weight: 20
   - name: Projects
     url: '#projects'
